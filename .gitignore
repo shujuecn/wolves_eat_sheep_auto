@@ -1,0 +1,9 @@
+# macOS and Python runtime artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local editor and test artifacts
+.pytest_cache/
+.mypy_cache/
+.coverage

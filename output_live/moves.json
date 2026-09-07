@@ -1,0 +1,363 @@
+{
+  "frames": 1066,
+  "duration_s": 74.3,
+  "grid": {
+    "nx": [
+      0.1459181376885148,
+      0.32304669452557583,
+      0.5000154863383562,
+      0.676051390757273,
+      0.8521271428683721
+    ],
+    "ny": [
+      0.33747167250115945,
+      0.42942407607606037,
+      0.5213721568729855,
+      0.6133267309346033,
+      0.704642911551762
+    ],
+    "region": [
+      1004,
+      38,
+      508,
+      944
+    ]
+  },
+  "my_faction": null,
+  "initial_grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      2,
+      2,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "start_frame": 0,
+      "initial_grid": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          2,
+          2,
+          0
+        ]
+      ]
+    },
+    {
+      "start_frame": 901,
+      "initial_grid": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "start_frame": 985,
+      "initial_grid": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "start_frame": 990,
+      "initial_grid": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  ],
+  "moves": [
+    {
+      "frame": 281,
+      "time_s": 21.45,
+      "mover": "unknown",
+      "kind": "complex",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 283,
+      "time_s": 21.81,
+      "mover": "unknown",
+      "kind": "complex",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 354,
+      "time_s": 26.38,
+      "mover": "sheep",
+      "kind": "move",
+      "src": [
+        2,
+        2
+      ],
+      "dst": [
+        3,
+        2
+      ],
+      "captured": []
+    },
+    {
+      "frame": 387,
+      "time_s": 28.63,
+      "mover": "wolf",
+      "kind": "move",
+      "src": [
+        3,
+        1
+      ],
+      "dst": [
+        4,
+        1
+      ],
+      "captured": []
+    },
+    {
+      "frame": 418,
+      "time_s": 30.52,
+      "mover": "sheep",
+      "kind": "move",
+      "src": [
+        3,
+        2
+      ],
+      "dst": [
+        3,
+        3
+      ],
+      "captured": []
+    },
+    {
+      "frame": 522,
+      "time_s": 37.34,
+      "mover": "unknown",
+      "kind": "complex",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 524,
+      "time_s": 37.46,
+      "mover": "unknown",
+      "kind": "complex",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 665,
+      "time_s": 46.8,
+      "mover": "sheep",
+      "kind": "move",
+      "src": [
+        2,
+        0
+      ],
+      "dst": [
+        3,
+        0
+      ],
+      "captured": []
+    },
+    {
+      "frame": 834,
+      "time_s": 61.23,
+      "mover": "sheep",
+      "kind": "place",
+      "src": null,
+      "dst": [
+        2,
+        0
+      ],
+      "captured": []
+    },
+    {
+      "frame": 901,
+      "time_s": 65.79,
+      "mover": "system",
+      "kind": "reset",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 985,
+      "time_s": 69.01,
+      "mover": "system",
+      "kind": "reset",
+      "src": null,
+      "dst": null,
+      "captured": []
+    },
+    {
+      "frame": 990,
+      "time_s": 69.34,
+      "mover": "system",
+      "kind": "reset",
+      "src": null,
+      "dst": null,
+      "captured": []
+    }
+  ]
+}
